@@ -1,0 +1,1 @@
+Creating a web page where I am fetching data from third api and show the weather condition, temperature and other relevent data on the web page.
